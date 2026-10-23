@@ -23,22 +23,12 @@ Minha base em segurança ofensiva, construída por meio de estudos em pentest e 
 
 Além da segurança da informação, mantenho o [**Devaneios Neurais**](https://pe1xera.github.io/), espaço pessoal onde escrevo sobre tecnologia, música, design, teologia e outros assuntos que despertam minha curiosidade.
 
-## Atuação no SOC
-
-- **Triagem de alertas:** análise inicial de eventos e aplicação de playbooks conforme o tipo de ocorrência.
-- **Investigação e enriquecimento:** correlação de eventos e análise de evidências no SIEM para distinguir atividade maliciosa de falsos positivos.
-- **Resposta a incidentes:** contenção por meio de ações como bloqueio de contas comprometidas no Active Directory e de endereços IP maliciosos no firewall.
-- **Comunicação e remediação:** documentação das evidências, registro das ações executadas e orientação técnica aos clientes.
-- **Melhoria contínua:** validação de fluxos de investigação, refinamento de playbooks e aprimoramento das detecções.
-
 ## Foco de estudo
 
 - Detecção de ameaças e *Threat Hunting*
 - DFIR: investigação forense digital e resposta a incidentes
 - Automação de resposta e desenvolvimento de playbooks
 - Segurança ofensiva aplicada à defesa
-
-## Tecnologias e ferramentas
 
 ### Defesa e Investigação
 
@@ -61,7 +51,6 @@ Além da segurança da informação, mantenho o [**Devaneios Neurais**](https://
 ![HTML5](https://img.shields.io/badge/HTML5-6B7280?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-6B7280?style=flat-square&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-6B7280?style=flat-square&logo=mysql&logoColor=white)
-
 
 ## Projetos em destaque
 
