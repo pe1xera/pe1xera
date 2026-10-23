@@ -1,24 +1,97 @@
-![git-capa](https://github.com/user-attachments/assets/9ae1b72b-a6d5-4077-b4b2-214ccbeab2d3)
+<div align="center">
 
-<h1 align="center">Opa!🖖, eu sou o Rodrigo Peixoto</h1>
-<h3 align="center">Apenas um sujeito apaixonado por cybersecurity :)</h3>
+# Rodrigo Peixoto Santos
 
-<br>
-📚 Leitura é parte da minha rotina e dos meus hobbies :) <br><br>     
-💻 Atualmente, venho estudando - principalmente - sobre Segurança Ofensiva, Pentest e assuntos correlatos  <br><br>
-📝 Escrevo alguns Devaneios Neurais, onde compartilho (parte) do meu desenvolvimento nos assuntos e temas com os quais me engajo, desde cibersegurança, passando por design até música e teologia. Você pode conferí-los <a href="https://pe1xera.github.io/">por aqui.</a><br>
+**Information Security Analyst · Blue Team @ Ayko Technology**
 
-## 🌐 Redes Sociais:
-<p align="left">
-<a href="https://linkedin.com/in/pe1xera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pe1xera" height="30" width="40" /></a>
-<a href="https://instagram.com/rodrigope1xoto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rodrigope1xoto" height="30" width="40" /></a>
-<a href="https://medium.com/@whoisrodrigopeixoto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@whoisrodrigopeixoto" height="30" width="40" /></a>
-</p>
+*Triagem · Investigação · Resposta a Incidentes · SIEM*
 
-## Ferramentas que eu utilizo ou estudo:
-<p align="left"> 
-<a href="https://portswigger.net/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=41078&format=png&color=FF6633" alt="burp" width="40" height="40"/> </a>
-<a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=qBWtR72kluCU&format=png&color=000000" alt="nome" width="40" height="40"/> </a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://notion.so" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=HDd694003FZa&format=png&color=FFFFFF" alt="nome" width="40" height="40"/> </a>
-</p>
+*Espírito Santo, Brasil*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pe1xera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pe1xera/)
+[![Blog](https://img.shields.io/badge/Blog-Devaneios_Neurais-1f1f1f?style=for-the-badge&logo=githubpages&logoColor=white)](https://pe1xera.github.io/)
+[![Medium](https://img.shields.io/badge/Medium-whoisrodrigopeixoto-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@whoisrodrigopeixoto)
+
+![PJPT](https://img.shields.io/badge/PJPT-TCM_Security-1f6feb?style=flat-square)
+![Security+](https://img.shields.io/badge/CompTIA-Security+-C8202F?style=flat-square&logo=comptia&logoColor=white)
+
+</div>
+
+---
+
+## 👤 Sobre
+
+Analista de Segurança da Informação no **Blue Team da Ayko Technology**, atuando no SOC com triagem, investigação e resposta a alertas de segurança para diversos clientes.
+
+Minha base vem do lado ofensivo (pentest e CTFs), o que me ajuda a pensar como o atacante ao investigar eventos e propor melhorias de detecção. Também escrevo sobre o que aprendo, de cibersegurança a design, música e teologia, no blog [**Devaneios Neurais**](https://pe1xera.github.io/).
+
+## 🛡️ O que faço no dia a dia
+
+- **Triagem e resposta a alertas** seguindo playbooks definidos por tipo de evento, garantindo padronização e agilidade no atendimento.
+- **Investigação e enriquecimento no SIEM**, cruzando informações e evidências para separar atividade maliciosa de falso positivo.
+- **Resposta a incidentes**, incluindo bloqueio de contas comprometidas no Active Directory e de IPs maliciosos no firewall, com foco em reduzir o MTTR.
+- **Remediação e comunicação com clientes**, com recomendações técnicas claras para cada ambiente.
+- **Documentação completa** de cada investigação (análise, evidências e comunicação) nos chamados, para garantir rastreabilidade.
+- **Melhoria contínua**: teste de fluxos de investigação, refinamento de playbooks e proposta de melhorias de detecção na plataforma Mayko SecOps.
+
+## 🎯 Foco de estudo
+
+- 🔍 Detecção e threat hunting
+- 🧠 Threat Intelligence e mapeamento de TTPs (MITRE ATT&CK)
+- 🔥 Resposta a incidentes e automação de playbooks
+- 🧪 Segurança ofensiva como apoio à defesa
+
+## 🧰 Stack e ferramentas
+
+**Defesa e análise (SOC)**
+
+![SIEM](https://img.shields.io/badge/SIEM-Investigação_e_Enriquecimento-005571?style=flat-square)
+![Active Directory](https://img.shields.io/badge/Active_Directory-Resposta-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Firewall](https://img.shields.io/badge/Firewall-Bloqueio_de_IOCs-B22222?style=flat-square)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<!-- Se quiser, troque os badges genéricos pelos nomes reais das ferramentas (SIEM, EDR, firewall), por exemplo:
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square)
+-->
+
+**Ofensiva**
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Scripting e desenvolvimento**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+## 📌 Projetos em destaque
+
+| Projeto | Descrição |
+|---|---|
+| [**aTTLas**](https://github.com/pe1xera/aTTLas) | Port scanner simples em Python |
+| [**Molinete**](https://github.com/pe1xera/molinete) | Molinete é uma ferramenta em Python para quebra de senhas no Linux |
+| [**Web Keyring**](https://github.com/pe1xera/web-keyring) | O WebKeyring é uma aplicação web projetada para o armazenamento, gestão e compartilhamento seguro de secrets |
+| [**pe1xera.github.io**](https://github.com/pe1xera/pe1xera.github.io) | Blog *Devaneios Neurais*, sobre segurança, design e mais |
+
+## ✍️ Escrita
+
+Compartilho aprendizados, estudos e reflexões no [**Devaneios Neurais**](https://pe1xera.github.io/) e no [**Medium**](https://medium.com/@whoisrodrigopeixoto).
+
+## 🎓 Formação e certificações
+
+- **PJPT**: Practical Junior Penetration Tester (TCM Security)
+- **CompTIA Security+**
+- **FIAP**
+
+---
+
+<div align="center">
+
+*"Playfully doing something difficult, whether useful or not, that is hacking."*
+
+</div>
